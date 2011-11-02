@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: neu.Draw for iPad by neu.Pen LLC  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+    x="0px" y="0px"
+    width="100%" height="100%"
+    viewBox="200.000000 346.000000 600.000000 308.000000"
+    xml:space="preserve">
+
+
+
+ <style type="text/css" >
+      <![CDATA[
+
+        path {
+           opacity:0.35; 
+           fill:rgb(240,176,182); 
+           stroke:rgb(0,0,0); 
+           stroke-width:3.000000; 
+           stroke-linecap:round; 
+           stroke-linejoin:round; 
+           stroke-miterlimit:10;
+        }
+
+      ]]>
+    </style>
+
+
+<path 
+d="M301.50,505.80C301.50,426.99,366.73,363.10,447.20,363.10C527.67,363.10,592.90,426.99,592.90,505.80C592.90,584.61,527.67,648.50,447.20,648.50C366.73,648.50,301.50,584.61,301.50,505.80Z"/>
+
+</svg>
